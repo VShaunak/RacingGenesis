@@ -1,9 +1,8 @@
 # Racing Genesis — Assignment 3: MVP Development Submission Package
 
-**Course**: AI for Visual Computing (CS 535)  
-**Project**: Racing Genesis: Physics-Driven Procedural F1 Racing Simulation  
-**Team**: Shaun & Team  
-**Submission Date**: October 2026  
+**Course**: AI for Visual Computing
+**Project**: Racing Genesis: Physics-Driven Procedural F1 Racing Simulation    
+**Submission Date**: October 13th 2026  
 
 ---
 
